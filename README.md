@@ -1,7 +1,4 @@
-# TinDog Project
-
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+# TinCat Project
 
 ## SVGs:
 
@@ -45,36 +42,36 @@ Heart:
 
 ## Text:
 
-Meet new and interesting dogs nearby.
+Meet new and interesting cats nearby.
 
 Easy to use.
-So easy to use, even your dog could do it.
+So easy to use, even your cat could do it.
 
 Elite Clientele.
-We have all the dogs, the greatest dogs.
+We have all the cats, the greatest cast.
 
 Guaranteed to work.
-Find the love of your dog's life or your money back.
+Find the love of your cat's life or your money back.
 
-"I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof."
-Pebbles, New York
+"I wanted cat cuddles and thanks to TinCat. I've found the hottest frosty. Purr."
+Kitty, New York
 
-A Plan for Every Dog's Needs
-Simple and affordable price plans for you and your dog.
+A Plan for Every Cat's Needs
+Simple and affordable price plans for you and your cat.
 
-Chihuahua
+Persian
 $0/mo
 5 Matches Per Day
 10 Messages Per Day
 Unlimited App Usage
 
-Labrador
+Ragdoll
 $15/mo
 Unlimited Matches
 Unlimited Messages
 Unlimited App Usage
 
-Mastiff
+Angora
 $29/mo
 Pirority Listing
 Unlimited Matches & Messages
